@@ -1,7 +1,7 @@
 # Портфолио
-### Я Шевченко Руслан, Тестировщик ПО/QA Ingineer
+### Я Руслан, Тестировщик ПО/QA Ingineer
 
-### Проекты:
+### Мои проекты:
 <ul>
 <li><a href= "https://docs.google.com/spreadsheets/d/1GS2OVzHsr7GVhJXJJwmBWD_jCoWNVwl-E3yf7fcZTAQ/edit?usp=drivesdk/">Тест-кейс на восстановление пароля</a></li>
 <li><a href= "https://docs.google.com/spreadsheets/d/1Izcq4ACeQJ4FbAGsBf9Wvbb5lOcZsInULarBZwA4yoM/edit?usp=sharing/">Дефекты сайта</a></li>
