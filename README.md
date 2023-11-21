@@ -25,5 +25,5 @@
 
 ### Контакты:
 <dl>+79200957731</dl>
-<dl>E-mail: mcar320@gmail.com</dl>
+<dl>mcar320@gmail.com</dl>
 
