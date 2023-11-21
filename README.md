@@ -7,7 +7,8 @@
 <li><a href= "https://docs.google.com/spreadsheets/d/1Izcq4ACeQJ4FbAGsBf9Wvbb5lOcZsInULarBZwA4yoM/edit?usp=sharing/">Дефекты сайта</a></li>
 <li><a href= "https://docs.google.com/document/d/1usy_3L1yxs8n2ccdns4mWbO7sQdvXrstNAziNnXAfx0/edit?usp=sharing/">Нагрузочное тестирование в JMeter</a></li>
 <li><a href= "https://docs.google.com/spreadsheets/d/1RuEk-gtH0-HWWG0MAbDs6wPcodR-ezGEbehMPESAlSk/edit?usp=drivesdk/">Чеклист функциональной проверки зарегистрированного авторизованного пользователя</a></li> 
-<li><a href= "https://docs.google.com/spreadsheets/d/1vAlWh6DmWZawQSE1sG2L41SocVANDifyIAi22T61OMM/edit?usp=sharing/">Инструменты тестирования для работы с документацией</a></li>  
+<li><a href= "https://docs.google.com/spreadsheets/d/1vAlWh6DmWZawQSE1sG2L41SocVANDifyIAi22T61OMM/edit?usp=sharing/">Инструменты тестирования для работы с документацией</a></li>
+<li><a href= "https://docs.google.com/document/d/1QewvlUnlbe_02jS000InSAeNaSfhRB8381D6QoGnr9o/edit?usp=sharing/">Жизненный цикл разработки ПО. Гибкие методологии разработки ПО</a></li> 
 </ul>
 
 
