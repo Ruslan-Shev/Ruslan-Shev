@@ -13,10 +13,15 @@
 </ul>
 
 ### Сертификаты Нетологии:
-
-
-
-
+<ul>
+<li><a href= "https://netology.ru/sharing/bd16134d63e8417008b00e0d17899f5e?utm_source=social&utm_campaign=achievements/">JAVA Для тестировщиков</a></li>  
+<li><a href= "https://netology.ru/sharing/f2d20d85fe6b0ce57c047027c4b9c70c?utm_source=social&utm_campaign=achievements/">Ручное тестирование</a></li>
+<li><a href= "https://netology.ru/sharing/8c2a9a418cedac756a223c4e0b9c5a57?utm_source=social&utm_campaign=achievements/">Основы SQL</a></li>  
+<li><a href= "https://netology.ru/sharing/1c21a644799afbaf5e112672f15afa64?utm_source=social&utm_campaign=achievements/">GIT</a></li>
+<li><a href= "https://netology.ru/sharing/0e0de13436cb60b686353a68ce4b1daa?utm_source=social&utm_campaign=achievements/">HTML и CSS</a></li>
+<li><a href= "https://netology.ru/sharing/0212b17ad6e967a9acf4ecf9bf05b4d6?utm_source=social&utm_campaign=achievements/">Специалист по информационной безопасности: старт карьеры</a></li>
+<li><a href= "https://netology.ru/sharing/3d0c16d7be75a48aac7d55afa776dbf1?utm_source=social&utm_campaign=achievements/">Основы разработки на JAVA</a></li>  
+</ul>
 ### Контакты:
 <dl>+79200957731</dl>
 <dl>E-mail: mcar320@gmail.com</dl>
