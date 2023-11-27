@@ -20,7 +20,8 @@
 <li><a href= "https://netology.ru/sharing/1c21a644799afbaf5e112672f15afa64?utm_source=social&utm_campaign=achievements/">GIT</a></li>
 <li><a href= "https://netology.ru/sharing/0e0de13436cb60b686353a68ce4b1daa?utm_source=social&utm_campaign=achievements/">HTML и CSS</a></li>
 <li><a href= "https://netology.ru/sharing/0212b17ad6e967a9acf4ecf9bf05b4d6?utm_source=social&utm_campaign=achievements/">Специалист по информационной безопасности: старт карьеры</a></li>
-<li><a href= "https://netology.ru/sharing/3d0c16d7be75a48aac7d55afa776dbf1?utm_source=social&utm_campaign=achievements/">Основы разработки на JAVA</a></li>  
+<li><a href= "https://netology.ru/sharing/3d0c16d7be75a48aac7d55afa776dbf1?utm_source=social&utm_campaign=achievements/">Основы разработки на JAVA</a></li>
+<li><a href= "https://netology.ru/sharing/2d3f5cae0232f0d7c0205ef344a1b8ee?utm_source=social&utm_campaign=certificate_lms/">Автоматизация тестирования Java</a></li>
 </ul>
 
 ### Контакты:
