@@ -12,7 +12,7 @@
 <li><a href= "https://docs.google.com/document/d/1xDwvm5mpa9Te74BuoXJsMGN6TPx_C79ycnWBuILiFQc/edit?usp=sharing/">Функциональные требования Карточки товара</a></li>  
 </ul>
 
-### Сертификаты Нетологии:
+### Сертификаты:
 <ul>
 <li><a href= "https://netology.ru/sharing/bd16134d63e8417008b00e0d17899f5e?utm_source=social&utm_campaign=achievements/">JAVA Для тестировщиков</a></li>  
 <li><a href= "https://netology.ru/sharing/f2d20d85fe6b0ce57c047027c4b9c70c?utm_source=social&utm_campaign=achievements/">Ручное тестирование</a></li>
